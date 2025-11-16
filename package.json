@@ -1,0 +1,34 @@
+{
+  "name": "interstitial-economics",
+  "version": "1.0.0",
+  "description": "Pyramid-driven interstitial journaling with voice-first interface and prediction markets",
+  "type": "module",
+  "scripts": {
+    "example:basic": "tsx examples/01-basic-entry.ts",
+    "example:pyramid": "tsx examples/02-pyramid-creation.ts",
+    "example:flow": "tsx examples/03-complete-flow.ts",
+    "type-check": "tsc --noEmit",
+    "test": "vitest"
+  },
+  "keywords": [
+    "journaling",
+    "voice",
+    "ai",
+    "prediction-markets",
+    "prosocial",
+    "reciprocity",
+    "zod",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3",
+    "vitest": "^1.0.4"
+  }
+}
