@@ -17,7 +17,7 @@ Voice-first pyramid journaling Progressive Web App. Works on iOS Safari, Chrome,
 
 Works on iPhone Safari and desktop Chrome. No installation needed!
 
-> 🚀 **Last deployed:** 2025-11-17
+> 🚀 **Status**: Deploying... check [Actions](https://github.com/lessuseless-systems/interstitial-economics/actions)
 
 ## Quick Start
 
