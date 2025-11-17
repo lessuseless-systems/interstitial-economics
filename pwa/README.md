@@ -11,7 +11,19 @@ Voice-first pyramid journaling Progressive Web App. Works on iOS Safari, Chrome,
 ✅ **Local Storage** - All data stays on your device
 ✅ **Mobile Optimized** - Touch-friendly, responsive design
 
+## Live Demo
+
+**Try it now:** https://lessuseless-systems.github.io/interstitial-economics/
+
+Works on iPhone Safari and desktop Chrome. No installation needed!
+
 ## Quick Start
+
+### Option 1: Use Live Version (Easiest)
+
+Just visit the link above on your iPhone - it's already deployed and ready to use!
+
+### Option 2: Run Locally
 
 ### 1. Install Dependencies
 
