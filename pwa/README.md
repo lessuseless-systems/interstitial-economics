@@ -17,6 +17,8 @@ Voice-first pyramid journaling Progressive Web App. Works on iOS Safari, Chrome,
 
 Works on iPhone Safari and desktop Chrome. No installation needed!
 
+> 🚀 **Last deployed:** 2025-11-17
+
 ## Quick Start
 
 ### Option 1: Use Live Version (Easiest)
